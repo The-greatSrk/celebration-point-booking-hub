@@ -81,7 +81,7 @@ ${formData.requirements || 'None specified'}
 Please contact me to discuss the details and confirm availability.
     `.trim();
 
-    const whatsappUrl = `https://wa.me/919876543210?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/918805158674?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
 
     toast({
@@ -273,7 +273,7 @@ Please contact me to discuss the details and confirm availability.
                 <CardContent className="space-y-4">
                   <Button 
                     className="w-full bg-green-600 hover:bg-green-700 text-white"
-                    onClick={() => window.open('https://wa.me/919876543210?text=Hi! I want to book an event at Celebration Point', '_blank')}
+                    onClick={() => window.open('https://wa.me/918805158674?text=Hi! I want to book an event at Celebration Point', '_blank')}
                   >
                     <MessageSquare className="h-4 w-4 mr-2" />
                     WhatsApp Chat
@@ -281,7 +281,7 @@ Please contact me to discuss the details and confirm availability.
                   <Button 
                     variant="outline" 
                     className="w-full"
-                    onClick={() => window.open('tel:+919876543210', '_blank')}
+                    onClick={() => window.open('tel:+918805158674', '_blank')}
                   >
                     <Phone className="h-4 w-4 mr-2" />
                     Call Now

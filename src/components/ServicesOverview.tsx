@@ -92,7 +92,7 @@ const ServicesOverview = () => {
 
   const openWhatsApp = (serviceName: string) => {
     const message = `Hi! I'm interested in booking ${serviceName} at Celebration Point. Could you please provide more details about pricing and availability?`;
-    const whatsappUrl = `https://wa.me/919876543210?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/918805158674?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
   };
 

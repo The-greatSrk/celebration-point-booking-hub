@@ -6,8 +6,8 @@ const Navigation = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const socialLinks = {
-    instagram: "https://instagram.com/celebrationpoint",
-    whatsapp: "https://wa.me/919876543210?text=Hi! I want to book an event at Celebration Point",
+    instagram: "https://www.instagram.com/celebration_point_byhangout/",
+    whatsapp: "https://wa.me/918805158674?text=Hi! I want to book an event at Celebration Point",
     reviews: "https://g.page/r/celebrationpoint/review"
   };
 

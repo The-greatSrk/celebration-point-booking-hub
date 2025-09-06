@@ -52,7 +52,7 @@ const NotFound = () => {
             <Button 
               variant="ghost" 
               className="flex-1 hover-lift"
-              onClick={() => window.open('tel:+919876543210')}
+              onClick={() => window.open('tel:+918805158674')}
             >
               <Phone className="h-4 w-4 mr-2" />
               Call Us
@@ -60,7 +60,7 @@ const NotFound = () => {
             <Button 
               variant="ghost" 
               className="flex-1 hover-lift"
-              onClick={() => window.open('https://wa.me/919876543210?text=Hi! I need help finding what I was looking for on Celebration Point website.')}
+              onClick={() => window.open('https://wa.me/918805158674?text=Hi! I need help finding what I was looking for on Celebration Point website.')}
             >
               <MessageCircle className="h-4 w-4 mr-2" />
               WhatsApp

@@ -4,8 +4,8 @@ import { Instagram, MessageCircle, Star, MapPin, Clock, Phone, Mail } from "luci
 
 const ContactSection = () => {
   const socialLinks = {
-    instagram: "https://instagram.com/celebrationpoint",
-    whatsapp: "https://wa.me/919876543210?text=Hi! I want to book an event at Celebration Point",
+    instagram: "https://www.instagram.com/celebration_point_byhangout/",
+    whatsapp: "https://wa.me/918805158674?text=Hi! I want to book an event at Celebration Point",
     reviews: "https://g.page/r/celebrationpoint/review"
   };
 
@@ -36,7 +36,7 @@ const ContactSection = () => {
                   <Phone className="h-5 w-5 text-primary" />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-muted-foreground">+91 98765 43210</p>
+                    <p className="text-muted-foreground">+91 88051 58674</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
@@ -50,7 +50,7 @@ const ContactSection = () => {
                   <MapPin className="h-5 w-5 text-primary" />
                   <div>
                     <p className="font-semibold">Service Areas</p>
-                    <p className="text-muted-foreground">Mumbai, Pune, and surrounding areas</p>
+                    <p className="text-muted-foreground">Ashok Nagar beside Hangout Cafe, Satpur Colony, Nashik</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">

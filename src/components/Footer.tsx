@@ -5,8 +5,8 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   
   const socialLinks = {
-    instagram: "https://instagram.com/celebrationpoint",
-    whatsapp: "https://wa.me/919876543210?text=Hi! I want to book an event at Celebration Point",
+    instagram: "https://www.instagram.com/celebration_point_byhangout/",
+    whatsapp: "https://wa.me/918805158674?text=Hi! I want to book an event at Celebration Point",
     reviews: "https://g.page/r/celebrationpoint/review"
   };
 
@@ -160,7 +160,7 @@ const Footer = () => {
                 <Phone className="h-4 w-4 text-primary" />
                 <div>
                   <p className="text-sm font-medium">Phone</p>
-                  <p className="text-sm text-muted-foreground">+91 98765 43210</p>
+                  <p className="text-sm text-muted-foreground">+91 88051 58674</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
@@ -174,7 +174,7 @@ const Footer = () => {
                 <MapPin className="h-4 w-4 text-primary" />
                 <div>
                   <p className="text-sm font-medium">Service Area</p>
-                  <p className="text-sm text-muted-foreground">Mumbai, Pune & nearby</p>
+                  <p className="text-sm text-muted-foreground">Ashok Nagar beside Hangout Cafe, Satpur Colony, Nashik</p>
                 </div>
               </div>
             </div>
